@@ -1,0 +1,24 @@
+PRIME SERVICE PISCINAS — SITE COM PÁGINAS INDIVIDUAIS DE SERVIÇOS
+
+ESTRUTURA
+- index.html: página inicial
+- servicos/limpeza-de-piscina.html
+- servicos/manutencao-periodica.html
+- servicos/tratamento-da-agua.html
+- servicos/recuperacao-agua-verde.html
+- servicos/troca-areia-filtro.html
+- servicos/limpeza-bordas-casa-maquinas.html
+- style.css: estilo compartilhado
+- sitemap.xml e robots.txt: apoio à indexação
+
+ANTES DE PUBLICAR
+1. Substitua SEU-DOMINIO.com.br pelo domínio definitivo em canonical, sitemap.xml e robots.txt.
+2. Confirme os serviços oferecidos e ajuste descrições/itens se necessário.
+3. Complete dias e horário de encerramento; inclua bairros atendidos.
+4. Confirme a nota e quantidade de avaliações do Google antes de manter os dados estruturados.
+5. Publique mantendo a estrutura de pastas e arquivos. A página inicial deve permanecer como index.html.
+6. Depois de publicar, cadastre o domínio no Google Search Console e envie /sitemap.xml.
+7. Adicione fotos reais e avaliações autênticas quando disponíveis.
+
+SEO
+Cada serviço tem título, meta description, canonical e dados estruturados próprios. A indexação e o posicionamento no Google não são imediatos nem garantidos; dependem também do domínio, conteúdo, concorrência e validação do Google.

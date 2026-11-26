@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manucrf.github.io/Primeservicepiscinas/sitemap.xml
