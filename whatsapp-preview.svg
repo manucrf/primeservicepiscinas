@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071d43"/><stop offset="1" stop-color="#0b3766"/></linearGradient><linearGradient id="water" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#087fbd"/><stop offset="1" stop-color="#38c6d8"/></linearGradient></defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1080" cy="70" r="230" fill="#087fbd" opacity=".12"/><circle cx="1100" cy="600" r="300" fill="#38c6d8" opacity=".08"/>
+<rect x="70" y="76" width="5" height="478" rx="2" fill="#f5a900"/>
+<image x="120" y="145" width="340" height="340" xlink:href="https://manucrf.github.io/primeservicepiscinas/PSP.jpeg" preserveAspectRatio="xMidYMid meet"/>
+<text x="520" y="220" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="4">PRIME SERVICE PISCINAS</text>
+<text x="520" y="305" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">Sua piscina limpa,</text>
+<text x="520" y="372" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">cristalina e pronta</text>
+<text x="520" y="439" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">para usar.</text>
+<rect x="520" y="475" width="390" height="4" rx="2" fill="url(#water)"/>
+<text x="520" y="526" fill="#d8e9f7" font-family="Arial, Helvetica, sans-serif" font-size="25">Limpeza • Tratamento • Manutenção</text>
+<text x="520" y="566" fill="#f5a900" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Atendimento no Rio de Janeiro</text>
+</svg>
